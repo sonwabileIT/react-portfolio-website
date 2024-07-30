@@ -2,7 +2,7 @@ function WorkHistory(){
     return(
         <>
         <section>
-            <div className="max-w-screen-xl my-10">
+            <div className="max-w-screen-xl mx-auto my-10">
                 <div className="md:mx-12">
                     <h2 className="text-center text-4xl mb-10">My Work History</h2>
                     <ol className="relative space-y-5" >

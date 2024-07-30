@@ -2,9 +2,9 @@ function NavBar(){
     return(
         <>
         <div className="bg-teal-600">
-            <div className="flex justify-between mx-auto items-center max-w-screen-lg ">
+            <div className="flex justify-between mx-auto items-center max-w-screen-lg px-4">
                 <a href="#">
-                    <span className="text-white text-lg">MyPortortfolio</span>
+                    <span className="text-white text-3xl">MyPortortfolio</span>
                 </a>
                 <nav>
                     <ul className="flex">

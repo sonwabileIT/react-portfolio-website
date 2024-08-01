@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title": "Portfolio Site",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "src/assets/ReactPortfolioWebsite.png",
+        "link": "https://github.com/sonwabileIT/react-portfolio-website"
+    },
+    {
+        "id": "2",
+        "title": "Note Taking App",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "src/assets/PCView.png",
+        "link": "https://github.com/sonwabileIT/note-taking-app"
+    }
+
+]

@@ -8,7 +8,7 @@ function ProjectCard({projects}){
             width="400px"></img>
             <div className="p-4">
                 <h2 className="text-3xl mb-2">{projects.title}</h2>
-                <p className="mb-2">
+                <p className="mb-2 max-h-40">
                 
                 {projects.description}
                 </p>

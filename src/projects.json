@@ -2,14 +2,14 @@
     {
         "id": "1",
         "title": "Portfolio Site",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "description": "This website is made using React.JS. The website contains a hero section, my Work History section and a page listing projects i've done so far.",
         "image": "src/assets/ReactPortfolioWebsite.png",
         "link": "https://github.com/sonwabileIT/react-portfolio-website"
     },
     {
         "id": "2",
         "title": "Note Taking App",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "description": "This application is made with vanilla HTML, CSS and JavaScript. This application lets you note down tasks with a Title and a Description. The Notes are listed next to or below the input section. ",
         "image": "src/assets/PCView.png",
         "link": "https://github.com/sonwabileIT/note-taking-app"
     }

@@ -4,7 +4,7 @@ function ProjectCard({projects}){
         <>
         <div className="max-w-sm border-2 border-gray-200 rounded-lg shadow-md">
             <img src={`${projects.image}`} 
-            className="rounded-t-lg"
+            className="h-auto rounded-t-lg"
             width="400px"></img>
             <div className="p-4">
                 <h2 className="text-3xl mb-2">{projects.title}</h2>

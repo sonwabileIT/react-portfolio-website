@@ -21,10 +21,10 @@ function Footer(){
                         <h2 className="text-2xl mb-4">Pages</h2>
                         <ul className="my-3">
                             <li>
-                                <a href="#">About</a>
+                                <a href="/">About</a>
                             </li>
                             <li>
-                                <a href="projects.html">Projects</a>
+                                <a href="/react-portfolio-website/projects">Projects</a>
                             </li>
                         </ul>
                         </div>

@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter basename="/react-portfolio-website">
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />}/>

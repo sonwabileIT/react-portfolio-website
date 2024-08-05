@@ -16,8 +16,8 @@ This is my portfolio website written with React.
 
 ### View 1     
 
-<img alt="Portfolio page" src="src/assets/ReactPortfolioWebsite.png">
+<img alt="Portfolio page" src="public/ReactPortfolioWebsite.png">
 
 ### View 2
 
-<img alt="Portfolio page 2" src="src/assets/ReactPortfolioWebsite1.png">
+<img alt="Portfolio page 2" src="public/ReactPortfolioWebsite1.png">

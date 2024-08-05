@@ -32,7 +32,7 @@ function Hero(){
                             </div>
                         </div>
                         <div className="flex justify-center shrink-0">
-                            <img className="size-80 rounded-lg"  src="src/assets/Soso.jpg" alt="Soso" />
+                            <img className="size-80 rounded-lg"  src="Soso.jpg" alt="Soso" />
                         </div>
                     </div>
                 </div>

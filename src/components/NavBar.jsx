@@ -6,7 +6,7 @@ function NavBar(){
         <div className="bg-teal-600">
             <div className="flex justify-between mx-auto items-center max-w-screen-lg px-4">
                 <Link to="/">
-                    <span className="text-white text-3xl">MyPortortfolio</span>
+                    <span className="text-white text-3xl">MyPortfolio</span>
                 </Link>
                 <nav>
                     <ul className="flex">

@@ -5,9 +5,9 @@ function NavBar(){
         <>
         <div className="bg-teal-600">
             <div className="flex justify-between mx-auto items-center max-w-screen-lg px-4">
-                <a href="">
+                <Link to="/">
                     <span className="text-white text-3xl">MyPortortfolio</span>
-                </a>
+                </Link>
                 <nav>
                     <ul className="flex">
                         <li>

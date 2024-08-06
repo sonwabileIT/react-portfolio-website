@@ -9,12 +9,14 @@ function App() {
 
   return (
     <>
+    <BrowserRouter basename="/react-portfolio-website">
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/projects" element={<Projects />}/>
       </Routes>
       <Footer/>
+    </BrowserRouter>
     </>
   )
 }

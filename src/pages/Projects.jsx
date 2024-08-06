@@ -3,7 +3,6 @@ import projects from "../projects.json";
 
 function Projects(){
 
-    console.log(projects);
     return(
         <>
         <div className="max-w-screen-xl mx-auto my-5">
@@ -19,7 +18,6 @@ function Projects(){
                         
                     
                 }
-            {/* <ProjectCard /> */}
             
             </div>
         </div>

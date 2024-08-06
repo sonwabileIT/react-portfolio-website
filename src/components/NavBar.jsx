@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 function NavBar(){
     return(
         <>
@@ -9,10 +11,10 @@ function NavBar(){
                 <nav>
                     <ul className="flex">
                         <li>
-                            <a href="" className="block text-white text-center px-5 py-3 hover:text-orange-500">About</a>
+                            <Link to="/" className="block text-white text-center px-5 py-3 hover:text-orange-500">About</Link>
                         </li>
                         <li>
-                            <a href="projects" className="block text-white text-center px-5 py-3 hover:text-orange-500">Projects</a>
+                            <Link to="/projects" className="block text-white text-center px-5 py-3 hover:text-orange-500">Projects</Link>
                         </li>
                     </ul>
                 </nav>

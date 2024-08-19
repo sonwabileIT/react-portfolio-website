@@ -7,7 +7,7 @@ function NavBar(){
         <div className="py-4">
             <div className="flex justify-between mx-auto items-center max-w-screen-lg px-4">
                 <Link to="/">
-                    <span className="text-black text-3xl">MyPortfolio</span>
+                    <span className="text-black text-3xl">SonwabileIT</span>
                 </Link>
                 <nav>
                     <ul className="flex gap-4">

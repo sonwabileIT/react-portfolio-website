@@ -12,6 +12,14 @@
         "description": "This application is made with vanilla HTML, CSS and JavaScript. This application lets you note down tasks with a Title and a Description. The Notes are listed next to or below the input section. ",
         "image": "PCView.png",
         "link": "https://github.com/sonwabileIT/note-taking-app"
+    },
+    {
+        "id": "3",
+        "title": "Tasks App",
+        "description": "This is an application made up of a backend powered by Nodejs and Expressjs. The frontend is made with Nextjs Framework. You can store a list of tasks with a Title and Description into a database. All tasks are then displayed from the database and you can mark a task omplete and delete one or more tasks.  ",
+        "image": "NextjsTaskApp1.png",
+        "link": "https://github.com/sonwabileIT/tasks-app"
     }
+
 
 ]

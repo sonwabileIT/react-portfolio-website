@@ -22,7 +22,7 @@ function Hero(){
                                 <span className="text-white ml-2">Go to my GitHub</span>
                                 </a>
 
-                                <a href="public/documents/Sonwabile Gxoyiya Resume Website.pdf" 
+                                <a href="./Sonwabile Gxoyiya Resume Website.pdf" 
                                 target="_blank" rel="noopener noreferrer"
                                 className="bg-orange-500 px-4 py-3 inline-flex justify-center items-center text-center rounded-md shrink-0">
                                 <svg width="22" height="24" data-slot="icon" data-darkreader-inline-fill="" fill="white" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">

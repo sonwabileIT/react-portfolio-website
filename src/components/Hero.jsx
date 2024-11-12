@@ -9,11 +9,11 @@ function Hero(){
                             <h2 className="invisible md:visible font-medium">Web Development | Software Development</h2>
                             <h2 className="text-6xl font-semibold mt-2 text-center md:text-left">Sonwabile Gxoyiya</h2>
                             <h2 className="text-center text-xl md:text-left my-2 md:mb-4">
-                                Junior Software Developer interested in developing web applications.
-                                Experience with HTML, CSS, Javascript, TypeScript, Angular and Learning React.js 
+                                Junior Software Developer interested in developing Web Applications.
+                                Experience with HTML, CSS, JavaScript, TypeScript, Angular and learning React.js 
                             </h2>
 
-                            <div className="flex flex-col max-w-sm gap-3 mx-auto text-center my-6 md:text-left md:flex-row md:flex-wrap md:gap-2 md:mx-0 ">
+                            <div className="flex flex-col max-w-sm gap-3 mx-auto text-center my-6 md:text-left md:flex-row md:gap-2 md:mx-0 ">
                                 <a href="https://github.com/sonwabileIT" target="_blank" rel="noopener noreferrer" 
                                 className="bg-orange-500 px-4 py-3 inline-flex justify-center items-center text-center rounded-md shrink-0 ">
                                 <svg width="22" height="24" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
@@ -22,12 +22,14 @@ function Hero(){
                                 <span className="text-white ml-2">Go to my GitHub</span>
                                 </a>
 
-                                <a href="public/documents/Resume of Sonwabile Gxoyiya 2024.pdf" download 
+                                <a href="public/documents/Sonwabile Gxoyiya Resume Website.pdf" 
+                                target="_blank" rel="noopener noreferrer"
                                 className="bg-orange-500 px-4 py-3 inline-flex justify-center items-center text-center rounded-md shrink-0">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
-                                    <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                <svg width="22" height="24" data-slot="icon" data-darkreader-inline-fill="" fill="white" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                    <path clipRule="evenodd" fillRule="evenodd" d="M5.625 1.5c-1.036 0-1.875.84-1.875 1.875v17.25c0 1.035.84 1.875 1.875 1.875h12.75c1.035 0 1.875-.84 1.875-1.875V12.75A3.75 3.75 0 0 0 16.5 9h-1.875a1.875 1.875 0 0 1-1.875-1.875V5.25A3.75 3.75 0 0 0 9 1.5H5.625ZM7.5 15a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 1 0 1.5h-7.5A.75.75 0 0 1 7.5 15Zm.75 2.25a.75.75 0 0 0 0 1.5H12a.75.75 0 0 0 0-1.5H8.25Z"></path>
+                                    <path d="M12.971 1.816A5.23 5.23 0 0 1 14.25 5.25v1.875c0 .207.168.375.375.375H16.5a5.23 5.23 0 0 1 3.434 1.279 9.768 9.768 0 0 0-6.963-6.963Z"></path>
                                 </svg>
-                                <span className="text-white ml-2">Download my CV</span>
+                                <span className="text-white ml-2">View my CV</span>
                                 </a>
                             </div>
                         </div>

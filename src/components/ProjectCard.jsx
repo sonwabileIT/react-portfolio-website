@@ -2,7 +2,7 @@ function ProjectCard({ projects }) {
 
 	return (
 		<>
-			<div className="max-w-sm flex flex-col flex-grow border-2 border-gray-600 rounded-lg shadow-md">
+			<div className="max-w-sm flex flex-col flex-shrink mx-3 md:mx-0 rounded-lg ring-2 ring-slate-700">
 				<img src={`${projects.image}`}
 					className="h-auto border-b-2 border-gray-600 rounded-t-lg"
 					width="400px"></img>
